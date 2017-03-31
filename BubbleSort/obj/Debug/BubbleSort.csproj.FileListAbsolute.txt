@@ -1,0 +1,5 @@
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
